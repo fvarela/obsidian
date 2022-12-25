@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes.md",
+                "file": "A_Daily Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes.md",
+                "file": "A_Daily Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,9 +86,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fba54ae60dbaf16e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Salesforce.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c02266440437c69a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c24e43932a8726ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A_Daily Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a545d012ce4f74e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -154,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Azure/Training/C2. Data Storage in Microsoft Azure.md",
+                "file": "Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Azure/Training/C2. Data Storage in Microsoft Azure.md",
+                "file": "Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Azure/Training/C2. Data Storage in Microsoft Azure.md"
+                "file": "Python.md"
               }
             }
           }
@@ -215,15 +263,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d85b4b41b1a90108",
+  "active": "9a545d012ce4f74e",
   "lastOpenFiles": [
-    "Azure/Training/C1. Data Storage in Microsoft Azure Notes.md",
-    "Azure/Training/Exams.md",
-    "Azure/Training/Data Storage.md",
     "Azure/Notes.md",
+    "Python.md",
+    "A_Daily Notes.md",
     "Bash.md",
-    "Splunk/Dashboards.md",
-    "Daily Notes.md",
-    "Azure/Training/Trainings.md"
+    "Docker.md",
+    "React.md",
+    "Salesforce.md",
+    "Azure/Training/C2. Data Storage in Microsoft Azure.md",
+    "Azure/Training/C1. Data Storage in Microsoft Azure Notes.md",
+    "Azure/Training/Exams.md"
   ]
 }
