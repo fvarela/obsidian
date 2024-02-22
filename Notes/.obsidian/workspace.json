@@ -4,139 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "fcd7eb2637a17489",
+        "id": "91f7a1f4c19fd488",
         "type": "tabs",
         "children": [
           {
-            "id": "b1b59a26d481733a",
+            "id": "27b9e54c2fb0c034",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A_Daily Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ca0898e947a17226",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6bafe179bfe3742d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Training/Exams.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68e1f530716134f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A_Daily Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de8b1c2092c451cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Training/Data Storage.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f5a74077bb53fcd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Training/C1. Data Storage in Microsoft Azure Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d85b4b41b1a90108",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure/Training/C2. Data Storage in Microsoft Azure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fba54ae60dbaf16e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Salesforce.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c02266440437c69a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c24e43932a8726ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A_Daily Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a545d012ce4f74e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python.md",
+                "file": "IT/Azure/Training/Developer/RECAP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -181,12 +65,32 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "e2a8583a015c0e17",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "66319fb0f5a1c1f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Splunk/Dashboards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 252.5
   },
   "right": {
     "id": "8d4b9ff33a4296fe",
@@ -202,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python.md",
+                "file": "IT/Azure/Training/Developer/RECAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python.md",
+                "file": "IT/Azure/Training/Developer/RECAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +146,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python.md"
+                "file": "IT/Azure/Training/Developer/RECAP.md"
+              }
+            }
+          },
+          {
+            "id": "5ae36dd3a80b30bf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -250,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -263,17 +179,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a545d012ce4f74e",
+  "active": "27b9e54c2fb0c034",
   "lastOpenFiles": [
-    "Azure/Notes.md",
-    "Python.md",
-    "A_Daily Notes.md",
-    "Bash.md",
-    "Docker.md",
-    "React.md",
-    "Salesforce.md",
-    "Azure/Training/C2. Data Storage in Microsoft Azure.md",
-    "Azure/Training/C1. Data Storage in Microsoft Azure Notes.md",
-    "Azure/Training/Exams.md"
+    "IT/Azure/Training/Developer/Exams.md",
+    "IT/Azure/Training/Data Engineer/C1. Data Storage in Microsoft Azure Notes.md",
+    "IT/Luigi/Overview.md",
+    "IT/PowerShell.md",
+    "IT/Data Structures/Recursion.md",
+    "IT/Salesforce.md",
+    "IT/Bash.md",
+    "Images/Pasted image 20230227152032.png",
+    "Untitled.canvas",
+    "Images/Pasted image 20230223221114.png",
+    "2024-02-22.md",
+    "Images/Pasted image 20230208125417.png",
+    "Images/Pasted image 20230208125309.png",
+    "Images/Pasted image 20230204153415.png",
+    "Images/Pasted image 20230204152843.png",
+    "Images/Pasted image 20230203140637.png",
+    "Images/Pasted image 20230203140414.png",
+    "IT/Spark/Magic Commands.md",
+    "Images/Pasted image 20240131102425.png",
+    "Images/Pasted image 20240204092529.png",
+    "IT/Python/Parallel Computing.md",
+    "Untitled 8.md",
+    "Untitled 7.md",
+    "Untitled 6.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Presentacion.md",
+    "Untitled.md",
+    "Rachel.md",
+    "Studies/Ingeniería computacional y matemática.md",
+    "Overview.md",
+    "Varian/Protons/Versions.md",
+    "Varian/Protons/Scanning.md",
+    "Varian/Protons/PBST.md",
+    "IT/Spark/Save To Tables",
+    "IT/Spark/Handling Secrets",
+    "IT/Spark/Querying - Modifying",
+    "IT/Spark/Ingest",
+    "IT/Spark/Tables and Views",
+    "IT/Spark/DeltaLake",
+    "IT/Spark/Querying - Modifying/PySpark",
+    "IT/Spark/Querying - Modifying/SQL",
+    "IT/Spark",
+    "IT/Luigi"
   ]
 }
