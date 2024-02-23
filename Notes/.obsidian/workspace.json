@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "91f7a1f4c19fd488",
+        "id": "af2f13df432cbf36",
         "type": "tabs",
         "children": [
           {
-            "id": "27b9e54c2fb0c034",
+            "id": "cce21b7dc4f4487f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Azure/Training/Developer/RECAP.md",
+                "file": "IT/Spark/DeltaLake/Update and Delete.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bed3c180572afff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Spark/DeltaLake/History, Time Travel, Vacuum.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -90,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 274.5
   },
   "right": {
     "id": "8d4b9ff33a4296fe",
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Azure/Training/Developer/RECAP.md",
+                "file": "IT/Spark/DeltaLake/History, Time Travel, Vacuum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Azure/Training/Developer/RECAP.md",
+                "file": "IT/Spark/DeltaLake/History, Time Travel, Vacuum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Azure/Training/Developer/RECAP.md"
+                "file": "IT/Spark/DeltaLake/History, Time Travel, Vacuum.md"
               }
             }
           },
@@ -179,8 +192,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27b9e54c2fb0c034",
+  "active": "bed3c180572afff7",
   "lastOpenFiles": [
+    "IT/Spark/DeltaLake/Merge with Upsert.md",
+    "IT/Spark/DeltaLake/History, Time Travel, Vacuum.md",
+    "IT/Spark/DeltaLake/Create, Read and Write.md",
+    "IT/Spark/DeltaLake/Update and Delete.md",
+    "IT/Spark/Querying - Modifying/PySpark/Query - Basics.md",
+    "IT/Spark/Tables and Views/Views.md",
+    "IT/Spark/Querying - Modifying/PySpark/Query - Aggregate.md",
+    "IT/Spark/Querying - Modifying/PySpark/Query - Window Func.md",
+    "IT/Spark/Querying - Modifying/PySpark/Query - Joins.md",
+    "Untitled.md",
+    "IT/Spark/Ingest/2. Incremental Ingestion.md",
+    "IT/Spark/Save To Tables/Save To Tables.md",
+    "IT/Spark/Tables and Views/Tables - Theory.md",
+    "IT/Spark/Tables and Views/Databases.md",
+    "IT/Spark/Ingest/1. Ingestion.md",
+    "IT/Azure/Training/Developer/RECAP.md",
     "IT/Azure/Training/Developer/Exams.md",
     "IT/Azure/Training/Data Engineer/C1. Data Storage in Microsoft Azure Notes.md",
     "IT/Luigi/Overview.md",
@@ -202,22 +231,6 @@
     "Images/Pasted image 20240131102425.png",
     "Images/Pasted image 20240204092529.png",
     "IT/Python/Parallel Computing.md",
-    "Untitled 8.md",
-    "Untitled 7.md",
-    "Untitled 6.md",
-    "Untitled 5.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Presentacion.md",
-    "Untitled.md",
-    "Rachel.md",
-    "Studies/Ingeniería computacional y matemática.md",
-    "Overview.md",
-    "Varian/Protons/Versions.md",
-    "Varian/Protons/Scanning.md",
-    "Varian/Protons/PBST.md",
     "IT/Spark/Save To Tables",
     "IT/Spark/Handling Secrets",
     "IT/Spark/Querying - Modifying",
