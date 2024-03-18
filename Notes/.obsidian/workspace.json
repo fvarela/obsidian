@@ -4,36 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "af2f13df432cbf36",
+        "id": "803be6fe19e74829",
         "type": "tabs",
         "children": [
           {
-            "id": "cce21b7dc4f4487f",
+            "id": "7c47bc901e60e26e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Spark/DeltaLake/Update and Delete.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bed3c180572afff7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Spark/DeltaLake/History, Time Travel, Vacuum.md",
+                "file": "IT/Databricks/Code - Tables and Views/Optimize.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1,
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -62,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "partition",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 374.5
   },
   "right": {
     "id": "8d4b9ff33a4296fe",
@@ -119,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Spark/DeltaLake/History, Time Travel, Vacuum.md",
+                "file": "IT/Databricks/Code - Tables and Views/Optimize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Spark/DeltaLake/History, Time Travel, Vacuum.md",
+                "file": "IT/Databricks/Code - Tables and Views/Optimize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Spark/DeltaLake/History, Time Travel, Vacuum.md"
+                "file": "IT/Databricks/Code - Tables and Views/Optimize.md"
               }
             }
           },
@@ -192,54 +178,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bed3c180572afff7",
+  "active": "7c47bc901e60e26e",
   "lastOpenFiles": [
-    "IT/Spark/DeltaLake/Merge with Upsert.md",
-    "IT/Spark/DeltaLake/History, Time Travel, Vacuum.md",
-    "IT/Spark/DeltaLake/Create, Read and Write.md",
-    "IT/Spark/DeltaLake/Update and Delete.md",
-    "IT/Spark/Querying - Modifying/PySpark/Query - Basics.md",
-    "IT/Spark/Tables and Views/Views.md",
-    "IT/Spark/Querying - Modifying/PySpark/Query - Aggregate.md",
-    "IT/Spark/Querying - Modifying/PySpark/Query - Window Func.md",
-    "IT/Spark/Querying - Modifying/PySpark/Query - Joins.md",
-    "Untitled.md",
-    "IT/Spark/Ingest/2. Incremental Ingestion.md",
-    "IT/Spark/Save To Tables/Save To Tables.md",
-    "IT/Spark/Tables and Views/Tables - Theory.md",
-    "IT/Spark/Tables and Views/Databases.md",
-    "IT/Spark/Ingest/1. Ingestion.md",
-    "IT/Azure/Training/Developer/RECAP.md",
-    "IT/Azure/Training/Developer/Exams.md",
-    "IT/Azure/Training/Data Engineer/C1. Data Storage in Microsoft Azure Notes.md",
-    "IT/Luigi/Overview.md",
-    "IT/PowerShell.md",
-    "IT/Data Structures/Recursion.md",
-    "IT/Salesforce.md",
-    "IT/Bash.md",
-    "Images/Pasted image 20230227152032.png",
-    "Untitled.canvas",
-    "Images/Pasted image 20230223221114.png",
-    "2024-02-22.md",
-    "Images/Pasted image 20230208125417.png",
-    "Images/Pasted image 20230208125309.png",
-    "Images/Pasted image 20230204153415.png",
-    "Images/Pasted image 20230204152843.png",
-    "Images/Pasted image 20230203140637.png",
-    "Images/Pasted image 20230203140414.png",
-    "IT/Spark/Magic Commands.md",
-    "Images/Pasted image 20240131102425.png",
-    "Images/Pasted image 20240204092529.png",
-    "IT/Python/Parallel Computing.md",
-    "IT/Spark/Save To Tables",
-    "IT/Spark/Handling Secrets",
-    "IT/Spark/Querying - Modifying",
-    "IT/Spark/Ingest",
-    "IT/Spark/Tables and Views",
-    "IT/Spark/DeltaLake",
-    "IT/Spark/Querying - Modifying/PySpark",
-    "IT/Spark/Querying - Modifying/SQL",
-    "IT/Spark",
-    "IT/Luigi"
+    "IT/Splunk/Dashboards.md",
+    "IT/Databricks/Code - Tables and Views/Optimize.md",
+    "IT/Databricks/Others - dbutils/dbutils.md",
+    "IT/Databricks/Code - Magic Commands",
+    "IT/Databricks/Code - Imports",
+    "IT/Databricks/Code - Magic Commands/Code - Magic Commands.md",
+    "IT/Databricks/Code - Imports/Code - Imports.md",
+    "IT/Databricks/Others - APIS and Tools/Databricks APIS and Tools.md",
+    "IT/Databricks/Others - APIS and Tools",
+    "IT/Databricks/Data - Delta Tables/Update and Delete.md",
+    "IT/Databricks/Data - Delta Tables/Transaction Log.md",
+    "IT/Databricks/Data - Delta Tables/Parquet to Delta.md",
+    "IT/Databricks/Data - Delta Tables/Merge with Upsert.md",
+    "IT/Databricks/Data - Delta Tables/Delete duplicate records.md",
+    "IT/Databricks/Data - Delta Tables/Create, Insert, Read and Write.md",
+    "IT/Databricks/Data - Delta Tables/Compaction - Optimize.md",
+    "IT/Databricks/Data - Delta Tables/Code snippet.md",
+    "IT/Databricks/Code - Handling Secrets/1. Secrets.md",
+    "IT/Databricks/Orchestration/Orchestration - Workflows.md",
+    "IT/Databricks/Orchestration/Jobs.md",
+    "IT/Databricks/Code - Tables and Views/Databases.md",
+    "IT/Databricks/Delta Live Tables (DLT)/Overview.md",
+    "IT/Databricks/Unchecked/Testing/Theory.md",
+    "IT/Databricks/Delta Live Tables (DLT)/Change Data Capture.md",
+    "IT/Databricks/Dynamic Views/Theory.md",
+    "IT/Databricks/Data - Streaming Query - Save/Examples.md",
+    "IT/Databricks/Data - Streaming Query - Save/Stream - Static JOINS.md",
+    "IT/Databricks/Data - Streaming Query - Save/Stream - Stream JOINS.md",
+    "IT/Databricks/Data - Slowly Changing Dimensions/Change Data Feed/Change Data Capture - Feed.md",
+    "IT/Databricks/Data - Slowly Changing Dimensions",
+    "IT/Databricks/Checked/Read And Modify Data/Incremental/Untitled",
+    "Images/Pasted image 20240211100852.png",
+    "IT/Databricks/Data - Slowly Changing Dimensions/Change Data Feed",
+    "IT/Databricks/Checked/Read And Save Data/Incremental/Save",
+    "IT/Databricks/Checked/Read And Save Data/Incremental/Read Files/Files",
+    "IT/Databricks/Checked/Read And Modify Data/Read Files Incrementally/Read Files",
+    "IT/Databricks/Checked/Save Data/Batch/Read/Files",
+    "Images/it_databricks_unitycatalog_ojectmodel.png",
+    "Images/Pasted image 20240227090735.png",
+    "Images/Pasted image 20230417094134.png",
+    "Images/Pasted image 20230714180846.png",
+    "Images/Pasted image 20230417093856.png",
+    "Images/Pasted image 20230301152240.png",
+    "Images/Pasted image 20230301151838.png",
+    "Images/Pasted image 20230301151723.png",
+    "Images/Pasted image 20230301145858.png",
+    "Untitled.canvas"
   ]
 }
