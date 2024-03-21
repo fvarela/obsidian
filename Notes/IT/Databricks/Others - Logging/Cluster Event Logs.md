@@ -1,0 +1,1 @@
+Cluster event logs record significant events in the lifecycle of a cluster, such as the addition or removal of nodes, changes in the status of nodes, and errors. If the cluster has autoscaling configured, these logs would also include information about when and why the cluster scaled in or out.

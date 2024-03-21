@@ -1,0 +1,1 @@
+The driver's log includes detailed information about the operations that the cluster manager's driver process is performing, such as job scheduling, task assignments, and status updates on running tasks. It can be used to diagnose issues in job execution and to understand the behavior of the Spark application from the driver's perspective.

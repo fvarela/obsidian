@@ -1,0 +1,1 @@
+The executor logs contain details about the execution of tasks on a particular executor, including the stdout and stderr output of the tasks run by the executor. They can provide insights into the execution of a particular job or task, including any errors or exceptions that occurred during execution.

@@ -1,0 +1,1 @@
+Ganglia is a scalable distributed monitoring system for high-performance computing systems such as clusters and grids. It allows you to view live or recorded statistics about the nodes in the cluster, such as CPU, memory usage, disk I/O, network stats, and more.

@@ -1,5 +1,6 @@
 
 ### Overview
+Structured Streaming treats a live data stream as a table that is being continuously appended
 
 Streaming Sources -> Structured Streaming -> Output sink
 

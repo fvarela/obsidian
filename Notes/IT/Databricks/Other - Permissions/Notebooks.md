@@ -1,0 +1,13 @@
+Notebook permissions
+- Can Read
+	- View cells, comment and run with %run or workflows
+- Can Run
+	- Same as 'Can Read' plus:
+		- Attach and detach notebooks
+		- Run commands
+- Can Edit
+	- Same as 'Can Run' plus:
+		- Edit cells
+- Can Manage
+	- Same as 'Can Edit' plus:
+		- Change permissions

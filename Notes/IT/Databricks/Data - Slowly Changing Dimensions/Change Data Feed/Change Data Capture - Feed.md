@@ -64,6 +64,7 @@ FROM table_changes('table_name', start_timestamp, [end_timestamp])
 ```
 
 Using pyspark you can do like this:
+If no 'startingVersion' or 'startingTimestamp' is provided it will get the latest snapshot.
 ```python
 cdf_df = (spark.readStream
 			 .format("delta")

@@ -1,6 +1,10 @@
 
-## Create Delta Lake from scratch
-Not necessary if you create it by writing to it some existing data
+# Create
+
+### From Scratch
+
+Not necessary if you create it by writing to it some existing data.
+This might be the best practice because you get to specify the schema. 
 
 ```sql
 CREATE TABLE IF NOT EXISTS f1_demo.drivers_merge (
@@ -13,20 +17,19 @@ CREATE TABLE IF NOT EXISTS f1_demo.drivers_merge (
 )
 USING DELTA;
 ```
+### Using Delta Table Builder API (not common)
 
-## Insert to Delta Table
-```sql
-CREATE TABLe employees
-	(id INT, name STRING, salary DOUBLE);`
+```python
+from delta import DeltaTable
+
+(DeltaTable.createOrReplace(spark)
+	.tableName("dev.demo_db.flight_time_tbl")
+	.addColumn("FL_DATE", "DATE")
+	.execute()
+	)
 ```
 
-```sql
-INSERT INTO employees
-VALUES
-	(1, "Adam", 3500.0),
-	(2, "Sarah", 4020.5)
-```
-## Write from DataFrame to Delta Lake
+### From Dataframe
 
 Exactly the same as writing to a parquet. Just specify the format as **delta** instead
 
@@ -44,6 +47,22 @@ results_df.write.format("delta") \
 results_df.write.format("delta")\
 	.mode("overwrite")\
 	.save("/mnt/formula1dlfvv/demo/results_external")
+```
+
+
+
+
+## Insert to Delta Table
+```sql
+CREATE TABLe employees
+	(id INT, name STRING, salary DOUBLE);`
+```
+
+```sql
+INSERT INTO employees
+VALUES
+	(1, "Adam", 3500.0),
+	(2, "Sarah", 4020.5)
 ```
 
 ## Read from Delta Lake to DataFrame

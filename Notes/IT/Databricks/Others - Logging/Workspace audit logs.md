@@ -1,0 +1,1 @@
+These logs typically contain records of various actions taken within the workspace, such as creation and modification of databases, tables, and other objects, as well as login attempts and other user activities. They are useful for security and compliance auditing.

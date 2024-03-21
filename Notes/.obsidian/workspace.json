@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "803be6fe19e74829",
+        "id": "fdca2a19d6bb3691",
         "type": "tabs",
         "children": [
           {
-            "id": "7c47bc901e60e26e",
+            "id": "c7337cd969e2e441",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Databricks/Code - Tables and Views/Optimize.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Databricks/Code - Tables and Views/Optimize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IT/Databricks/Code - Tables and Views/Optimize.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "IT/Databricks/Code - Tables and Views/Optimize.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,54 +170,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c47bc901e60e26e",
+  "active": "c7337cd969e2e441",
   "lastOpenFiles": [
-    "IT/Splunk/Dashboards.md",
-    "IT/Databricks/Code - Tables and Views/Optimize.md",
-    "IT/Databricks/Others - dbutils/dbutils.md",
+    "IT/Databricks/Others - Certification/Exam Questions/Images/Pasted image 20240319214511.png",
+    "IT/Databricks/Others - Certification/Exam Questions/Images/Pasted image 20240319233744.png",
+    "IT/Databricks/Data - Delta Tables/Create, Insert, Read and Write.md",
+    "IT/Azure/Data Factory",
+    "IT/Databricks/Code - Unity Catalog/1. Set up.md",
+    "IT/Databricks/Others - Certification/Exam Questions/Exam 2 Questions.md",
+    "IT/Databricks/Others - Certification/Exam Questions/Images/Pasted image 20240319233912.png",
+    "IT/Databricks/Others - Certification/Exam Questions/Images/Pasted image 20240319233300.png",
+    "IT/Databricks/Others - Certification/Exam Questions/Images/Pasted image 20240319233056.png",
+    "IT/Databricks/Others - Certification/Exam Questions/Images/Pasted image 20240319232910.png",
+    "IT/Databricks/Others - Certification/Exam Questions/Images/Pasted image 20240319232542.png",
+    "IT/Databricks/Others - Certification/Exam Questions/Images/Pasted image 20240319230822.png",
+    "IT/Databricks/Others - Certification/Exam Questions/Images/Pasted image 20240319232149.png",
+    "IT/Databricks/Others - Logging/Cluster Event Logs.md",
+    "IT/Databricks/Other - Permissions/Jobs.md",
+    "IT/Databricks/Others - Logging/Workspace audit logs.md",
+    "IT/Databricks/Others - Logging/Executor's log file.md",
+    "IT/Databricks/Others - Logging/Driver's log file.md",
+    "IT/Databricks/Others - Logging/Ganglia.md",
+    "IT/Databricks/Others - Logging",
+    "IT/Databricks/Others - Certification/Exam Questions/Images/Pasted image 20240319231033.png",
+    "Pasted image 20240319230651.png",
+    "IT/Databricks/Others - APIS and Tools/Databricks CLI.md",
+    "IT/Databricks/Others - APIS and Tools/Databricks APIS and Tools.md",
+    "IT/Databricks/Others - Certification/Exam Questions/Exam 1 Questions.md",
+    "IT/Databricks/Others - APIS and Tools/REST API.md",
+    "IT/Databricks/Data - Slowly Changing Dimensions/Slowly Changing Dimensions.md",
+    "IT/Databricks/Code - Handling Secrets/1. Secrets.md",
+    "IT/Databricks/Others - Optimization techniques/Predicate PushDown.md",
+    "IT/Databricks/Others - Optimization techniques/Optimize - Compaction.md",
+    "IT/Databricks/Others - Optimization techniques",
+    "IT/Databricks/Other - Permissions/Notebooks.md",
+    "IT/Databricks/Other - Permissions/Clusters.md",
+    "IT/Databricks/Other - Permissions",
+    "IT/Databricks/Code - Handling Secrets/Secrets module.md",
+    "IT/Databricks/Data - Delta Tables/Transaction Log.md",
+    "IT/Databricks/Code - Clusters",
+    "IT/Databricks/Data - Delta Tables/History, Time Travel, Vacuum.md",
+    "IT/Databricks/Others - APIS and Tools/VSCode extension.md",
+    "IT/Databricks/Data - Streaming Query - Save/Read Files Incrementally/AutoLoader.md",
+    "IT/Databricks/Data - Slowly Changing Dimensions/Change Data Feed/Change Data Capture - Feed.md",
+    "IT/Databricks/Others - Certification/Exam Questions",
+    "IT/Databricks/Others - Certification/Exam Questions/Images",
     "IT/Databricks/Code - Magic Commands",
     "IT/Databricks/Code - Imports",
-    "IT/Databricks/Code - Magic Commands/Code - Magic Commands.md",
-    "IT/Databricks/Code - Imports/Code - Imports.md",
-    "IT/Databricks/Others - APIS and Tools/Databricks APIS and Tools.md",
     "IT/Databricks/Others - APIS and Tools",
-    "IT/Databricks/Data - Delta Tables/Update and Delete.md",
-    "IT/Databricks/Data - Delta Tables/Transaction Log.md",
-    "IT/Databricks/Data - Delta Tables/Parquet to Delta.md",
-    "IT/Databricks/Data - Delta Tables/Merge with Upsert.md",
-    "IT/Databricks/Data - Delta Tables/Delete duplicate records.md",
-    "IT/Databricks/Data - Delta Tables/Create, Insert, Read and Write.md",
-    "IT/Databricks/Data - Delta Tables/Compaction - Optimize.md",
-    "IT/Databricks/Data - Delta Tables/Code snippet.md",
-    "IT/Databricks/Code - Handling Secrets/1. Secrets.md",
-    "IT/Databricks/Orchestration/Orchestration - Workflows.md",
-    "IT/Databricks/Orchestration/Jobs.md",
-    "IT/Databricks/Code - Tables and Views/Databases.md",
-    "IT/Databricks/Delta Live Tables (DLT)/Overview.md",
-    "IT/Databricks/Unchecked/Testing/Theory.md",
-    "IT/Databricks/Delta Live Tables (DLT)/Change Data Capture.md",
-    "IT/Databricks/Dynamic Views/Theory.md",
-    "IT/Databricks/Data - Streaming Query - Save/Examples.md",
-    "IT/Databricks/Data - Streaming Query - Save/Stream - Static JOINS.md",
-    "IT/Databricks/Data - Streaming Query - Save/Stream - Stream JOINS.md",
-    "IT/Databricks/Data - Slowly Changing Dimensions/Change Data Feed/Change Data Capture - Feed.md",
-    "IT/Databricks/Data - Slowly Changing Dimensions",
-    "IT/Databricks/Checked/Read And Modify Data/Incremental/Untitled",
-    "Images/Pasted image 20240211100852.png",
-    "IT/Databricks/Data - Slowly Changing Dimensions/Change Data Feed",
-    "IT/Databricks/Checked/Read And Save Data/Incremental/Save",
-    "IT/Databricks/Checked/Read And Save Data/Incremental/Read Files/Files",
-    "IT/Databricks/Checked/Read And Modify Data/Read Files Incrementally/Read Files",
-    "IT/Databricks/Checked/Save Data/Batch/Read/Files",
-    "Images/it_databricks_unitycatalog_ojectmodel.png",
-    "Images/Pasted image 20240227090735.png",
-    "Images/Pasted image 20230417094134.png",
-    "Images/Pasted image 20230714180846.png",
-    "Images/Pasted image 20230417093856.png",
-    "Images/Pasted image 20230301152240.png",
-    "Images/Pasted image 20230301151838.png",
-    "Images/Pasted image 20230301151723.png",
-    "Images/Pasted image 20230301145858.png",
     "Untitled.canvas"
   ]
 }
