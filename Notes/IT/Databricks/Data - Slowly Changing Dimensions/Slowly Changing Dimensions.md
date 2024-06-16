@@ -7,6 +7,7 @@
 | Type 2   | New records are added as new rows. Old records are kept for history                                                        |
 | Type 3   | Update the values in the same row. In addition to the current value, one or more columns are used to store previous values |
 | Type 4   | Instead of using columns like in Type 3, a separate history table is used.                                                 |
+|          |                                                                                                                            |
 
 This is an implementation of a type 2 SCD (Saves the history of previous records and flags them as no longer active along with two other columns, start date and end date that shows the period when the entries were (or are) valid)
 

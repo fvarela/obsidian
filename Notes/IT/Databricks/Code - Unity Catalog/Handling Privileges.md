@@ -54,7 +54,6 @@ GRANT ALL PRIVILEGES ON DATABASE dev.demo_db TO `scholernest-dev`;
 ```sql
 GRANT READ FILES ON EXTERNAL LOCATION `external-data` TO `scholernest-dev`;
 ```
-
 * Grant permissions on table
 ```sql
 GRANT SELECT, MODIFY, READ_METADATA ON TABLE my_table TO user1@company.com

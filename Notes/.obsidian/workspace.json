@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "fdca2a19d6bb3691",
+        "id": "a1af8fc568f15f4a",
         "type": "tabs",
         "children": [
           {
-            "id": "c7337cd969e2e441",
+            "id": "28b3a29639d54cad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "IT/Docker - Kubernetes/Images and Containers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe26a9b8ada98a71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Docker - Kubernetes/Images and Containers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25d8de153584706c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Docker - Kubernetes/Images and Containers.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "partition",
+                "query": "tag:#DockerFile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,24 +97,12 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "66319fb0f5a1c1f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Splunk/Dashboards.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 327.5
   },
   "right": {
     "id": "8d4b9ff33a4296fe",
@@ -101,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "IT/Docker - Kubernetes/Images and Containers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "IT/Docker - Kubernetes/Images and Containers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "IT/Docker - Kubernetes/Images and Containers.md"
+              }
             }
           },
           {
@@ -167,57 +188,58 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c7337cd969e2e441",
+  "active": "25d8de153584706c",
   "lastOpenFiles": [
-    "IT/Databricks/Others - Certification/Exam Questions/Images/Pasted image 20240319214511.png",
-    "IT/Databricks/Others - Certification/Exam Questions/Images/Pasted image 20240319233744.png",
-    "IT/Databricks/Data - Delta Tables/Create, Insert, Read and Write.md",
-    "IT/Azure/Data Factory",
-    "IT/Databricks/Code - Unity Catalog/1. Set up.md",
-    "IT/Databricks/Others - Certification/Exam Questions/Exam 2 Questions.md",
-    "IT/Databricks/Others - Certification/Exam Questions/Images/Pasted image 20240319233912.png",
-    "IT/Databricks/Others - Certification/Exam Questions/Images/Pasted image 20240319233300.png",
-    "IT/Databricks/Others - Certification/Exam Questions/Images/Pasted image 20240319233056.png",
-    "IT/Databricks/Others - Certification/Exam Questions/Images/Pasted image 20240319232910.png",
-    "IT/Databricks/Others - Certification/Exam Questions/Images/Pasted image 20240319232542.png",
-    "IT/Databricks/Others - Certification/Exam Questions/Images/Pasted image 20240319230822.png",
-    "IT/Databricks/Others - Certification/Exam Questions/Images/Pasted image 20240319232149.png",
-    "IT/Databricks/Others - Logging/Cluster Event Logs.md",
-    "IT/Databricks/Other - Permissions/Jobs.md",
-    "IT/Databricks/Others - Logging/Workspace audit logs.md",
-    "IT/Databricks/Others - Logging/Executor's log file.md",
-    "IT/Databricks/Others - Logging/Driver's log file.md",
-    "IT/Databricks/Others - Logging/Ganglia.md",
-    "IT/Databricks/Others - Logging",
-    "IT/Databricks/Others - Certification/Exam Questions/Images/Pasted image 20240319231033.png",
-    "Pasted image 20240319230651.png",
-    "IT/Databricks/Others - APIS and Tools/Databricks CLI.md",
-    "IT/Databricks/Others - APIS and Tools/Databricks APIS and Tools.md",
-    "IT/Databricks/Others - Certification/Exam Questions/Exam 1 Questions.md",
-    "IT/Databricks/Others - APIS and Tools/REST API.md",
-    "IT/Databricks/Data - Slowly Changing Dimensions/Slowly Changing Dimensions.md",
-    "IT/Databricks/Code - Handling Secrets/1. Secrets.md",
-    "IT/Databricks/Others - Optimization techniques/Predicate PushDown.md",
-    "IT/Databricks/Others - Optimization techniques/Optimize - Compaction.md",
-    "IT/Databricks/Others - Optimization techniques",
-    "IT/Databricks/Other - Permissions/Notebooks.md",
-    "IT/Databricks/Other - Permissions/Clusters.md",
-    "IT/Databricks/Other - Permissions",
-    "IT/Databricks/Code - Handling Secrets/Secrets module.md",
-    "IT/Databricks/Data - Delta Tables/Transaction Log.md",
-    "IT/Databricks/Code - Clusters",
-    "IT/Databricks/Data - Delta Tables/History, Time Travel, Vacuum.md",
-    "IT/Databricks/Others - APIS and Tools/VSCode extension.md",
-    "IT/Databricks/Data - Streaming Query - Save/Read Files Incrementally/AutoLoader.md",
-    "IT/Databricks/Data - Slowly Changing Dimensions/Change Data Feed/Change Data Capture - Feed.md",
-    "IT/Databricks/Others - Certification/Exam Questions",
-    "IT/Databricks/Others - Certification/Exam Questions/Images",
-    "IT/Databricks/Code - Magic Commands",
-    "IT/Databricks/Code - Imports",
-    "IT/Databricks/Others - APIS and Tools",
-    "Untitled.canvas"
+    "IT/Docker - Kubernetes/Aux Tools/Layers_optimization.excalidraw.md",
+    "IT/Docker - Kubernetes/Images and Containers.md",
+    "IT/Docker - Kubernetes/Common Commands.md",
+    "Pasted Image 20240616133514_256.png",
+    "IT/Docker - Kubernetes/Aux Tools/Layers.excalidraw.md",
+    "Pasted Image 20240616132521_979.png",
+    "IT/Docker - Kubernetes/DockerFile.md",
+    "IT/Docker - Kubernetes/Getting Started.md",
+    "IT/Docker - Kubernetes/Aux Tools/Concepts.excalidraw.md",
+    "IT/Docker - Kubernetes/Aux Tools",
+    "IT/Docker - Kubernetes/Drawing 2024-06-16 11.17.30.excalidraw.md",
+    "Excalidraw",
+    "IT/Docker - Kubernetes/DockerCompose.md",
+    "IT/Docker - Kubernetes/Docker.md",
+    "IT/Data Orchestrators/Dagster/Getting started.md",
+    "IT/Data Orchestrators/Prefect/Untitled.md",
+    "IT/Data Orchestrators/Dagster",
+    "Images/Pasted image 20230227152032.png",
+    "IT/Data Orchestrators",
+    "Images/Pasted image 20231025170310.png",
+    "Excalidraw/Drawing 2024-06-12 12.57.35.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-15 18.51.36.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-14 14.02.02.excalidraw.md",
+    "ViDA/PMP/Features and RoadMap.md",
+    "Pasted image 20240614122740.png",
+    "ViDA/Meetings/2024-06-14 PMP Accessing Hasp-Protected Documentation.md",
+    "ViDA/Meetings/2024-06-14 PMP Imaging Phase 1.md",
+    "ViDA/Meetings/2024-06-14 PMP Halcyon Phase 1.md",
+    "ViDA/PMP/Platforms/Halcyon Phase 1.md",
+    "ViDA/PMP/Required data sources.md",
+    "ViDA/PMP/Platforms/XI - Imaging System Phase 1.md",
+    "ViDA/PMP/Platforms/Truebeam Phase 1.md",
+    "ViDA/PMP/Business Case.md",
+    "ViDA/PMP/Teams.md",
+    "ViDA/Vanessa/Pasted image 20240603105643.png",
+    "ViDA/Vanessa/Pasted image 20240603105631.png",
+    "ViDA/Meetings",
+    "Untitled.canvas",
+    "ViDA/PMP/Untitled.canvas",
+    "ViDA/PMP/Platforms",
+    "ViDA/PMP/Tasks Review",
+    "IT/Python/Polars",
+    "ViDA/Vanessa",
+    "ViDA/Truecontext/truecontext.jpg",
+    "Pasted image 20240601170741.png",
+    "Pasted image 20240601170626.png",
+    "Planned Maintenance"
   ]
 }

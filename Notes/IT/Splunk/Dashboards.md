@@ -108,7 +108,11 @@ Alternativa. Encapsularlo todo en <![CDATA[   ....  ]]>:
 
 
 Drilldown
-	Primero habilitas el drilldown con esta opción como child de la tabla:
+
+            <set token="show_jobs"></set>
+            <set token="definition_id">$row.Deployment Name$</set>
+
+	Celda: Primero habilitas el drilldown con esta opción como child de la tabla:
 	<option name="drilldown">cell</option>
 	Después poner la acción que quieres que se ejecute. También como child de la tabla:
 		Enlace a otro dashboard:
@@ -144,6 +148,12 @@ Drilldown
 	<set token="case_id">$row.case_id$</set>
     <set token="show_work_order"></set>
 </condition>
+```
+Para las celdas en las que no quieras especificar un drilldown pon lo siguiente:
+```
+     <condition>
+          <!-- NO DRILLDOWN FOR OTHER FIELDS -->
+     </condition>
 ```
 
 

@@ -1,6 +1,6 @@
 pip install azure-identity azure-keyvault-secrets
 
-```
+```python
 #Imports
 #azure-identity
 #azure-keyvault-secrets
